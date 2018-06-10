@@ -143,4 +143,7 @@
 
     <!-- Period of time in which to consider light samples in milliseconds. -->
     <integer name="config_autoBrightnessAmbientLightHorizon">2000</integer>
+     
+    <!-- Hardware keys integer -->
+    <integer name="config_deviceHardwareKeys">83</integer>
 </resources>
