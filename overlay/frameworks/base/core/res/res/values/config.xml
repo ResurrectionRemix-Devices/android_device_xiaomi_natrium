@@ -146,4 +146,7 @@
      
     <!-- Hardware keys integer -->
     <integer name="config_deviceHardwareKeys">83</integer>
+     
+    <!-- Button backlights -->
+    <bool name="config_button_brightness_support">true</bool>
 </resources>
